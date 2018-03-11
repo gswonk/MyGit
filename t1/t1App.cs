@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace t1
 {
-    class Program
+    class t1App
     {
         // https://blog.velingeorgiev.com/vsts-personal-access-tokens-with-git-visual-studio-2017
 
